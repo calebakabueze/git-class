@@ -3,3 +3,16 @@ Learnng Git Hub
 Initialize a git respository
 
 >```git init```
+
+Check project status
+
+>```git status```
+
+Add changes to stage
+> ```git add filename | .>```
+
+comit changes
+> ```git commit -m 'commit message```
+
+Push changes to origin
+> ```git push```
