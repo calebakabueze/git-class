@@ -15,4 +15,7 @@ comit changes
 > ```git commit -m 'commit message```
 
 Push changes to origin
+- New branch 
+> ```git push -u origin brachName```
+- Existing branch
 > ```git push```
