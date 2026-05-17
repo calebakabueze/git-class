@@ -19,3 +19,15 @@ Push changes to origin
 > ```git push -u origin brachName```
 - Existing branch
 > ```git push```
+
+Pull changes from origin
+>```git pull```
+
+Create branch
+>```git branch branchName```
+
+Switch branch
+>```git checkout branchName```
+
+Create and switch branch
+>```git checkout -b branchName```
